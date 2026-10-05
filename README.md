@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Smb-Enterprise-Resource-Planning-ERP"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Smb-Enterprise-Resource-Planning-ERP?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Smb-Enterprise-Resource-Planning-ERP"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Smb-Enterprise-Resource-Planning-ERP?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Smb-Enterprise-Resource-Planning-ERP/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Smb-Enterprise-Resource-Planning-ERP?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -74,75 +74,75 @@ Open-source ERP systems are among the most active and valuable open-source commu
 
 ### ⭐ Open-Source Repositories (Sorted by Stars)
 
-*Sorted by **GitHub Star Count** (Descending)* 🌟
+*Sorted by **GitHub Stars_Count** (Descending)* 🌟
 
 1. **[Odoo Community](https://github.com/odoo/odoo)** 🚀  
-   [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
    - **License**: LGPL-3.0 | **Tech Stack**: Python, JavaScript, PostgreSQL  
    - **Overview**: **The most widely adopted open-source ERP globally.** Features 80+ core business apps covering CRM, sales, purchasing, inventory, manufacturing, HR, and billing. Supported by an ecosystem of 50,000+ community modules and 2,500+ contributing developers.
 
 2. **[ERPNext](https://github.com/frappe/erpnext)** ⚡  
-   [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
    - **License**: GPL-3.0 | **Tech Stack**: Python (Frappe Framework), MariaDB, JS  
    - **Overview**: **100% free and open-source ERP with no feature gates.** Includes accounting, HR, payroll, CRM, project management, and complete manufacturing MRP (BOMs, work orders, capacity planning) without enterprise paywalls.
 
 3. **[NocoBase](https://github.com/nocobase/nocobase)** 🎨  
-   [![GitHub stars](https://img.shields.io/github/stars/nocobase/nocobase?style=social&color=white)](https://github.com/nocobase/nocobase/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/nocobase/nocobase?style=social&color=white)](https://github.com/nocobase/nocobase/stargazers)  
    - **License**: AGPL-3.0 | **Tech Stack**: Node.js, React, TypeScript, PostgreSQL  
    - **Overview**: **Extensible, no-code platform for building bespoke ERP & CRM systems.** Highly modular architecture allowing non-developers to create complex internal business databases, custom workflows, and operational portals.
 
 4. **[Dolibarr ERP & CRM](https://github.com/Dolibarr/dolibarr)** 📊  
-   [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)  
    - **License**: GPL-3.0 | **Tech Stack**: PHP, MySQL / MariaDB  
    - **Overview**: **The easiest open-source ERP for micro-enterprises and freelancers.** Features simple installation, modular enable/disable architecture, invoicing, customer management, inventory tracking, and project time logs.
 
 5. **[Carbon (crbnos)](https://github.com/shuv1337/carbon)** 🏭  
-   [![GitHub stars](https://img.shields.io/github/stars/shuv1337/carbon?style=social&color=white)](https://github.com/shuv1337/carbon/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/shuv1337/carbon?style=social&color=white)](https://github.com/shuv1337/carbon/stargazers)  
    - **License**: AGPL-3.0 | **Tech Stack**: TypeScript, Remix, PostgreSQL, Tailwind  
    - **Overview**: **Modern open-source ERP/MES/QMS designed for job shops and configure-to-order manufacturers.** Features multi-level BOMs, real-time shop floor execution, lot tracking, and API-first web architecture.
 
 6. **[Apache OFBiz Framework](https://github.com/apache/ofbiz-framework)** 🏛️  
-   [![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers)  
    - **License**: Apache-2.0 | **Tech Stack**: Java, Groovy, Gradle  
    - **Overview**: **Enterprise-grade Java business framework.** Designed for developer teams building customized enterprise resource planning suites, MRP supply chains, and complex e-commerce integrations.
 
 7. **[iDempiere](https://github.com/idempiere/idempiere)** ⚙️  
-   [![GitHub stars](https://img.shields.io/github/stars/idempiere/idempiere?style=social&color=white)](https://github.com/idempiere/idempiere/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/idempiere/idempiere?style=social&color=white)](https://github.com/idempiere/idempiere/stargazers)  
    - **License**: GPL-2.0 | **Tech Stack**: Java, OSGi, PostgreSQL  
    - **Overview**: **Community-powered Business Suite.** Successor to Compiere and ADempiere, providing full ERP, CRM, and Supply Chain Management with multi-tenant, multi-currency, and multi-organization support.
 
 8. **[Moqui Framework](https://github.com/moqui/moqui-framework)** 🛠️  
-   [![GitHub stars](https://img.shields.io/github/stars/moqui/moqui-framework?style=social&color=white)](https://github.com/moqui/moqui-framework/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/moqui/moqui-framework?style=social&color=white)](https://github.com/moqui/moqui-framework/stargazers)  
    - **License**: CC0 1.0 (Public Domain) | **Tech Stack**: Java, Groovy, Vue.js  
    - **Overview**: **Ecosystem of enterprise application tools.** Includes the HiveMind ERP application for service organizations, offering flexible data documents, REST APIs, and LLM/AI integration options via MCP servers.
 
 9. **[LedgerSMB](https://github.com/ledgersmb/LedgerSMB)** 💰  
-   [![GitHub stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB?style=social&color=white)](https://github.com/ledgersmb/LedgerSMB/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB?style=social&color=white)](https://github.com/ledgersmb/LedgerSMB/stargazers)  
    - **License**: GPL-2.0 | **Tech Stack**: Perl, PostgreSQL, JavaScript, Docker  
    - **Overview**: **Double-entry accounting and ERP suite for small/midsize businesses.** Focuses on financial accuracy, strict audit controls, inventory management, quotation-to-invoice workflows, and order fulfillment.
 
 10. **[ADempiere](https://github.com/adempiere/adempiere)** 📦  
-    [![GitHub stars](https://img.shields.io/github/stars/adempiere/adempiere?style=social&color=white)](https://github.com/adempiere/adempiere/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/adempiere/adempiere?style=social&color=white)](https://github.com/adempiere/adempiere/stargazers)  
     - **License**: GPL-2.0 | **Tech Stack**: Java, PostgreSQL, Oracle  
     - **Overview**: **Bazaar-style open-source ERP/CRM suite.** Built around community contributions to provide industrial-strength financial accounting, warehouse management, and procurement workflows.
 
 11. **[Axelor Open Suite](https://github.com/axelor/axelor-open-suite)** 🌐  
-    [![GitHub stars](https://img.shields.io/github/stars/axelor/axelor-open-suite?style=social&color=white)](https://github.com/axelor/axelor-open-suite/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/axelor/axelor-open-suite?style=social&color=white)](https://github.com/axelor/axelor-open-suite/stargazers)  
     - **License**: AGPL-3.0 | **Tech Stack**: Java, React, BPMN Engine  
     - **Overview**: **Modern ERP and CRM platform with low-code BPM (Business Process Management).** Integrates workflow engine modeling with 30+ business apps including HR, sales, and manufacturing.
 
 12. **[metasfresh](https://github.com/metasfresh/metasfresh)** 🚛  
-    [![GitHub stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)  
     - **License**: GPL-2.0 | **Tech Stack**: Java, JavaScript, PostgreSQL, Docker  
     - **Overview**: **Open-source ERP tailored for high-volume wholesale distribution and supply chain.** Features out-of-the-box batch tracking, expiration dates (FEFO/FIFO), and automated logistical invoicing.
 
 13. **[blueSeer ERP](https://github.com/blueseer/blueseer)** 🏭  
-    [![GitHub stars](https://img.shields.io/github/stars/blueseer/blueseer?style=social&color=white)](https://github.com/blueseer/blueseer/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/blueseer/blueseer?style=social&color=white)](https://github.com/blueseer/blueseer/stargazers)  
     - **License**: MIT | **Tech Stack**: Java, MySQL / SQLite  
     - **Overview**: **Free desktop and server ERP/EDI solution for small manufacturers.** Provides job costing, inventory, order processing, and built-in EDI transaction mapping.
 
 14. **[NotrinosERP](https://github.com/notrinos/NotrinosERP)** 💻  
-    [![GitHub stars](https://img.shields.io/github/stars/notrinos/NotrinosERP?style=social&color=white)](https://github.com/notrinos/NotrinosERP/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/notrinos/NotrinosERP?style=social&color=white)](https://github.com/notrinos/NotrinosERP/stargazers)  
     - **License**: GPL-3.0 | **Tech Stack**: PHP, MySQL  
     - **Overview**: **Web-based management and accounting system.** Lightweight SMB platform covering purchasing, sales, inventory, manufacturing cost centers, and payroll.
 
